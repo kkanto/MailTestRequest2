@@ -1,2 +1,2 @@
-# MailTestRequest2
-This is MailTestRequest2
+# maven_template
+This is testow2o12345
